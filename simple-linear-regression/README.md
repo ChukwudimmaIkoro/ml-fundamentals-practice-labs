@@ -31,6 +31,8 @@ Then open `simple-linear-regression-github.ipynb`.
 
 ## Extension beyond the lab
 In addition to the core lab steps, I added:
-- Quantitative model evaluation (MSE and R²)
+- Quantitative evaluation on a held-out test set (MSE and R²)
 - Residual analysis for diagnostic insight
 - A summary of practical takeaways
+- Followed a standard train/test workflow with consolidated model training,
+  prediction, and evaluation for clarity
